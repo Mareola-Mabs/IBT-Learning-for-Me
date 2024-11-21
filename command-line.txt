@@ -1,0 +1,5 @@
+cd - change dircetory
+rm - remove files
+mkdir - create directories
+rmdir - remove dircetory
+ls - list files and directories
